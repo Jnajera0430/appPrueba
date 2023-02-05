@@ -1,0 +1,8 @@
+.labelAgendamientos{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    width: 100%;
+    padding: 5px;
+    
+}
