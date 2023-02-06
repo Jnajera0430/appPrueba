@@ -1,0 +1,45 @@
+html{
+    width: 100vw;
+    height: 100vh;
+}
+body{
+    width: 100vw;
+}
+
+.labelAgendamientos{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    width: 100%;
+    padding: 5px;
+    
+}
+.thLista{
+    width: 100px;
+    float: inline-start;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thListaConteo{
+    width: 50px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thListaEstado{
+    width: 70px;
+    float: inline-start;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thListaAccione{
+    width: 100px;
+    gap: 10px;
+    display: flex;
+    font-size: large;
+    align-items: center;
+    justify-content: space-evenly;
+}
